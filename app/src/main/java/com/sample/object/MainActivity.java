@@ -67,7 +67,7 @@ import java.util.Locale;
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
-    private static final String CLOUD_VISION_API_KEY = "AIzaSyDl9KK_sdv1PTkjag1r31zTvgQXWuY3t64";
+    private static final String CLOUD_VISION_API_KEY = "";
     public static final String FILE_NAME = "temp.jpg";
     private static final String ANDROID_CERT_HEADER = "X-Android-Cert";
     private static final String ANDROID_PACKAGE_HEADER = "X-Android-Package";
